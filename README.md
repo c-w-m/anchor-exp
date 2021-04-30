@@ -1,4 +1,4 @@
-# Anchor experiments
+# [Anchor experiments](https://github.com/marcotcr/anchor-experiments)
 This repository has code for replicating the experiments in [*High-Precision Model-Agnostic Explanations*](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf).
 
 If you actually want to try anchors, use the code in [this repository](https://github.com/marcotcr/anchor) instead.
